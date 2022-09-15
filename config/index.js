@@ -25,7 +25,7 @@ export const config = {
       // 想要发送的人的名字
       name: "贺彤彤&王亚鹏",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oEKqK6HNAfpiUnr8aCdEegMxpUZs",
+      id: "oEKqK6Ki0ARA2gOJ3BBgilHBT2ss,oEKqK6HNAfpiUnr8aCdEegMxpUZs",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "1p7SGwjxkUB8HcJucsF7d1vN-HUWNW6T_JQXXbbsTVk",
       // 所在省份
